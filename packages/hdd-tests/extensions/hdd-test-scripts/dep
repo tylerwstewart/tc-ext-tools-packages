@@ -3,6 +3,7 @@ raid-dm-KERNEL.tcz
 lvm2.tcz
 file.tcz
 e2fsprogs.tcz
+xfsprogs.tcz
 smartmontools.tcz
 coreutils.tcz
 lcdproc-hdd-tests.tcz
