@@ -1,6 +1,6 @@
 PACKAGE="tc-diskless-remaster"
 VERSION="20160510"
-SOURCE="git::https://github.com/chazzam/tc-diskless-remaster.git"
+SOURCE="git::https://github.com/tylerwstewart/tc-diskless-remaster.git"
 BUILD_DEPENDS="
 git.tcz
 expat2.tcz
@@ -10,9 +10,9 @@ perl5.tcz
 
 DESCRIPTION="Python utility to help remaster the initrd image for Tiny Core Linux."
 AUTHOR="chazzam"
-SITE="https://github.com/chazzam/tc-diskless-remaster/"
+SITE="https://github.com/tylerwstewart/tc-diskless-remaster/"
 COPYING="GPL-2"
-MAINTAINERS="chazzam"
+MAINTAINERS="tylerwstewart"
 TAGS=""
 COMMENTS="---"
 CHANGELOG="---"

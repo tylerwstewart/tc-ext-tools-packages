@@ -1,6 +1,6 @@
 DESCRIPTION="tc-ext-tools-git clones the git repo onto the system"
 AUTHOR="Sercan Arslan <arslanserv@gmail.com>"
-SITE="https://github.com/chazzam/tc-ext-tools/"
+SITE="https://github.com/tylerwstewart/tc-ext-tools/"
 COPYING="GPL-2"
 MAINTAINERS="chazzam"
 TAGS=""

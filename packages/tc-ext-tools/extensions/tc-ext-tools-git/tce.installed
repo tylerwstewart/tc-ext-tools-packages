@@ -3,7 +3,7 @@ TCUSER=`cat /etc/sysconfig/tcuser`
 TCHOME="/home/$TCUSER";
 TCSOURCE="$TCHOME/src";
 GIT_FOLDER="tc-ext-tools";
-GIT_REPO="https://github.com/chazzam/${GIT_FOLDER}.git";
+GIT_REPO="https://github.com/tylerwstewart/${GIT_FOLDER}.git";
 GIT_DIR="$TCSOURCE/$GIT_FOLDER";
 
 [ -d "$TCSOURCE" ] || sudo -u $TCUSER mkdir "$TCSOURCE";
