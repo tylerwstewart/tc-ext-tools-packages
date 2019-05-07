@@ -36,9 +36,6 @@ build_install() {
    mkdir -p "$INSTALL_DIR" || return 1
    cp -ap ${PACKAGE_SRC}/* "${INSTALL_DIR%%/}/"
 
-   # Add to the PATH env variable so that openssl headers are accessible
-   export PATH="/usr/local/include/opnessl:$PATH"
-
 }
 
 ## rules
